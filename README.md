@@ -1,2 +1,2 @@
-# MTH785-Coursework-2
+# Investment Portfolios Management Tool
 An Investment Portfolios Management Tool
